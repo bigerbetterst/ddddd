@@ -1,0 +1,336 @@
+Uri: https://rioworlds.su/
+File Name: C:\Downloaded Web Sites\rioworlds.su\index.htm
+Content Type: text/html
+
+Uri: https://rioworlds.su/403.php
+File Name: C:\Downloaded Web Sites\rioworlds.su\403.php.html
+Content Type: text/html
+
+Uri: https://rioworlds.su/404.php
+File Name: C:\Downloaded Web Sites\rioworlds.su\404.php.html
+Content Type: text/html
+
+Uri: https://rioworlds.su/assets/icons/discord_icon.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\discord_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/home.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\home.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/Link.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\Link.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/logout.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\logout.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/logo_icon.png
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\logo_icon.png
+Content Type: image/png
+
+Uri: https://rioworlds.su/assets/icons/online.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\online.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/questionArrow-icon.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\questionArrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/rules.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\rules.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/tg_icon.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\tg_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/vk_icon.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\vk_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/icons/wiki.svg
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\icons\wiki.svg
+Content Type: image/svg+xml
+
+Uri: https://rioworlds.su/assets/images/1.png
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\images\1.png
+Content Type: image/png
+
+Uri: https://rioworlds.su/assets/images/2.png
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\images\2.png
+Content Type: image/png
+
+Uri: https://rioworlds.su/assets/images/3.png
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\images\3.png
+Content Type: image/png
+
+Uri: https://rioworlds.su/assets/images/4.png
+File Name: C:\Downloaded Web Sites\rioworlds.su\assets\images\4.png
+Content Type: image/png
+
+Uri: https://rioworlds.su/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\rioworlds.su\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://rioworlds.su/contact/
+File Name: C:\Downloaded Web Sites\rioworlds.su\contact\index.htm
+Content Type: text/html
+
+Uri: https://rioworlds.su/css/error.css
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\error.css
+Content Type: text/css
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Black.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Black.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Black.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Black.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Black.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Bold.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Bold.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Bold.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Bold.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Extrabold.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Extrabold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Extrabold.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Extrabold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Extrabold.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Extrabold.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Heavy.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Heavy.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Heavy.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Heavy.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Heavy.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Heavy.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Light.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Light.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Light.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Light.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Light.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Medium.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Medium.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Medium.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Medium.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Regular.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Regular.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Regular.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Regular.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Thin.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Thin.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Thin.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Thin.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-Thin.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-Thin.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-UltraLight.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-UltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-UltraLight.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-UltraLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-UltraLight.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-UltraLight.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/Gilroy/Gilroy-UltraLight.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\Gilroy\Gilroy-UltraLight.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Bold.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Bold.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Bold.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Bold.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Light.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Light.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Light.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Light.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Light.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Medium.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Medium.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Medium.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Medium.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Regular.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Regular.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Regular.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Regular.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Thin.eot
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Thin.ttf
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Thin.ttf
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Thin.woff
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Thin.woff
+Content Type: application/font-woff
+
+Uri: https://rioworlds.su/css/fonts/YandexSansText/YandexSansText-Thin.woff2
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\fonts\YandexSansText\YandexSansText-Thin.woff2
+Content Type: application/octet-stream
+
+Uri: https://rioworlds.su/css/header_footer.css
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\header_footer.css
+Content Type: text/css
+
+Uri: https://rioworlds.su/css/index.css
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\index.css
+Content Type: text/css
+
+Uri: https://rioworlds.su/css/other_css.css
+File Name: C:\Downloaded Web Sites\rioworlds.su\css\other_css.css
+Content Type: text/css
+
+Uri: https://rioworlds.su/js/copyIP.js
+File Name: C:\Downloaded Web Sites\rioworlds.su\js\copyIP.js
+Content Type: application/javascript
+
+Uri: https://rioworlds.su/js/current_link.js
+File Name: C:\Downloaded Web Sites\rioworlds.su\js\current_link.js
+Content Type: application/javascript
+
+Uri: https://rioworlds.su/js/index.js
+File Name: C:\Downloaded Web Sites\rioworlds.su\js\index.js
+Content Type: application/javascript
+
+Uri: https://rioworlds.su/js/menu_button.js
+File Name: C:\Downloaded Web Sites\rioworlds.su\js\menu_button.js
+Content Type: application/javascript
+

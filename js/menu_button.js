@@ -1,0 +1,2 @@
+const arrow=document.querySelector(`#arrow_near_nik`)
+const openDropdown=document.querySelector(`#open_dropdown`);const dropdown=document.querySelector(`#dropdown`);openDropdown.addEventListener(`click`,down);function down(){dropdown.classList.toggle(`not_hidden`);if(dropdown.classList.contains(`not_hidden`)){arrow.style.transform=`rotate(-180deg)`;}else{arrow.style.transform=`rotate(0deg)`;}}

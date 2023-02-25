@@ -1,0 +1,1 @@
+const copiedIP=document.querySelectorAll(`.js-copy_IP`);for(let i of copiedIP){i.addEventListener('click',function(){navigator.clipboard.writeText(`play.lolashield.fun`);})}
